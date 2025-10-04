@@ -1,12 +1,12 @@
 [zh_CN](./README_zh.md)
 # Contact Management System
 
-## Description
+## Introduction
 As the title suggests, this is a contact management system. This project is developed based on C++ and is my (a beginner's) first project, compiled using the g++ compiler. If you need to use another compiler, you can modify the Makefile.
 
 Regarding the code: There might be issues with the code, so if you find any problems, please point them out. Thank you very much!
 
-## Introduction
+## Description
 Project Name: Contact Management System  
 Purpose: Manage contacts and store contact information  
 Compiler: g++  
