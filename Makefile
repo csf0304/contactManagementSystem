@@ -1,5 +1,5 @@
 CXX = g++
-#CXXFLAGS = -g
+#CXXFLAGS = -static -g
 
 SRC_DIR = src
 INCLUDE_DIR = include

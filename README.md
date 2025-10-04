@@ -1,30 +1,30 @@
-# 通讯录管理系统
+# Contact Management System
 
-## 描述
-如题,  这是一个通讯录管理系统. 此项目基于C++开发, 是我(初学者)的第一个项目, 使用g++编译器编译. 编译时, 你如果需要使用其他编译器编译, 可以修改Makefile.
+## Description
+As the title suggests, this is a contact management system. This project is developed based on C++ and is my (a beginner's) first project, compiled using the g++ compiler. If you need to use another compiler, you can modify the Makefile.
 
-关于代码: 代码可能会有问题, 所以如果发现问题还请指出, 非常感谢!
+Regarding the code: There might be issues with the code, so if you find any problems, please point them out. Thank you very much!
 
-## 介绍
-项目名称: 通讯录管理系统
-用途: 管理通讯录, 实现联系人的储存
-编译器: g++
-编译: make
+## Introduction
+Project Name: Contact Management System  
+Purpose: Manage contacts and store contact information  
+Compiler: g++  
+Compilation: make
 
-## 编译
-### 1.克隆此项目
+## Compilation
+### 1. Clone this project
 ```
 git clone https://github.com/csf0304/contactManagementSystem.git
 ```
-### 2.进入项目目录
-``` 
+### 2. Enter the project directory
+```
 cd contactManagementSystem
 ```
-### 3.编译
+### 3. Compile
 ```
 make
 ```
-### 4.运行
+### 4. Run
 ```
 ./main
 ```
